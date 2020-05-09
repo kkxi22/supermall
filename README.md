@@ -1,19 +1,17 @@
 # supermall
 
-## Project setup
+## 初始化
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 执行命令
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 构建命令
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
